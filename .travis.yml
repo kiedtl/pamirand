@@ -1,0 +1,6 @@
+os:
+  - linux
+  - windows
+language: rust
+script:
+  - cargo build --verbose --all
