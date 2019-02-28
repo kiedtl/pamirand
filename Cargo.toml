@@ -1,7 +1,7 @@
 [package]
 name = "pamirand"
-version = "0.1.0"
-authors = ["Kied T L <eli.georgios@gmail.com>"]
+version = "1.0.0"
+authors = ["Kied Llaentenn @kiedtl"]
 edition = "2018"
 
 [dependencies]
