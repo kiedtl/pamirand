@@ -13,7 +13,7 @@ A **Pa**rk-**Mi**ller style **rand**om number generator
     $ scoop install pamirand
     ```
 
-- Or, if you don't want to use a package manager, just download `painter.exe` from the latest release in the latest [releases section](https://github.com/lptstr/painter/releases).
+- Or, if you don't want to use a package manager, just download `pamirand.exe` from the latest release in the latest [releases section](https://github.com/lptstr/painter/releases).
 
 #### Other platforms
 - Build this project from source:
