@@ -24,6 +24,7 @@ A **Pa**rk-**Mi**ller style **rand**om number generator
   release: 1.32.0
   commit-hash: 8610973aaf48615ba7dc9a38a9a2795ba6f36a31
   commit-date: 2019-01-02
+  
   $ rustc --version --verbose
   rustc 1.32.0 (9fda7c223 2019-01-16)
   binary: rustc
