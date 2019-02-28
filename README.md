@@ -1,5 +1,5 @@
 # pamirand [![Build Status](https://travis-ci.org/lptstr/pamirand.svg?branch=master)](https://travis-ci.org/lptstr/pamirand)
-A random-number generator implementing the Park-Miller algorithm
+A **Pa**rk-**Mi**ller style **rand**om number generator
 
 ## Installation
 #### Windows
